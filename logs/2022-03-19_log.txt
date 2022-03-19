@@ -1,0 +1,18 @@
+2022-03-19 19:14:07: 'unpack' started with folowing arguments: (<__main__.Unpacker object at 0x0000019767230CA0>, [], [None, 2, 1]), {}. Function returned: [None, 2, 1]
+2022-03-19 19:14:07: 'unpack' started with folowing arguments: (<__main__.Unpacker object at 0x0000019767230CA0>, [], [None, 2, 1, False, 'h']), {}. Function returned: [None, 2, 1, False, 'h']
+2022-03-19 19:14:07: 'unpack' started with folowing arguments: (<__main__.Unpacker object at 0x0000019767230CA0>, [[]], [None, 2, 1, False, 'h', 'f']), {}. Function returned: [None, 2, 1, False, 'h', 'f']
+2022-03-19 19:14:07: 'unpack' started with folowing arguments: (<__main__.Unpacker object at 0x0000019767230CA0>, [[[]]], [None, 2, 1, False, 'h', 'f', 'e', 'd']), {}. Function returned: [None, 2, 1, False, 'h', 'f', 'e', 'd']
+2022-03-19 19:14:07: 'unpack' started with folowing arguments: (<__main__.Unpacker object at 0x0000019767230CA0>, [], [None, 2, 1, False, 'h', 'f', 'e', 'd', 'c', 'b', 'a']), {}. Function returned: [None, 2, 1, False, 'h', 'f', 'e', 'd', 'c', 'b', 'a']
+2022-03-19 19:14:07: 'unpack' started with folowing arguments: (<__main__.Unpacker object at 0x0000019767230CA0>, [[], [[[]]], []], [None, 2, 1, False, 'h', 'f', 'e', 'd', 'c', 'b', 'a']), {}. Function returned: [None, 2, 1, False, 'h', 'f', 'e', 'd', 'c', 'b', 'a']
+2022-03-19 19:14:07: '__iter__' started with folowing arguments: (<__main__.Unpacker object at 0x0000019767230CA0>,), {}. Function returned: <__main__.Unpacker object at 0x0000019767230CA0>
+2022-03-19 19:14:07: '__next__' started with folowing arguments: (<__main__.Unpacker object at 0x0000019767230CA0>,), {}. Function returned: a
+2022-03-19 19:14:07: '__next__' started with folowing arguments: (<__main__.Unpacker object at 0x0000019767230CA0>,), {}. Function returned: b
+2022-03-19 19:14:07: '__next__' started with folowing arguments: (<__main__.Unpacker object at 0x0000019767230CA0>,), {}. Function returned: c
+2022-03-19 19:14:07: '__next__' started with folowing arguments: (<__main__.Unpacker object at 0x0000019767230CA0>,), {}. Function returned: d
+2022-03-19 19:14:07: '__next__' started with folowing arguments: (<__main__.Unpacker object at 0x0000019767230CA0>,), {}. Function returned: e
+2022-03-19 19:14:07: '__next__' started with folowing arguments: (<__main__.Unpacker object at 0x0000019767230CA0>,), {}. Function returned: f
+2022-03-19 19:14:07: '__next__' started with folowing arguments: (<__main__.Unpacker object at 0x0000019767230CA0>,), {}. Function returned: h
+2022-03-19 19:14:07: '__next__' started with folowing arguments: (<__main__.Unpacker object at 0x0000019767230CA0>,), {}. Function returned: False
+2022-03-19 19:14:07: '__next__' started with folowing arguments: (<__main__.Unpacker object at 0x0000019767230CA0>,), {}. Function returned: 1
+2022-03-19 19:14:07: '__next__' started with folowing arguments: (<__main__.Unpacker object at 0x0000019767230CA0>,), {}. Function returned: 2
+2022-03-19 19:14:07: '__next__' started with folowing arguments: (<__main__.Unpacker object at 0x0000019767230CA0>,), {}. Function returned: None
